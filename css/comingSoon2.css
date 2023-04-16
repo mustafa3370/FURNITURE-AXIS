@@ -1,0 +1,15 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background:black;
+  }
+  #img1{
+    display:none;
+  }
+  #img2 {
+    display:none;
+  }
+  #img3 {
+    display:none;
+  }
